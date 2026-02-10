@@ -1,0 +1,41 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lockstride-marketplace",
+  "owner": {
+    "name": "Lockstride",
+    "email": "hello@lockstride.ai",
+    "url": "https://lockstride.ai"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "Official Claude Code plugin marketplace by Lockstride - tools for entrepreneurs and startup development"
+  },
+  "plugins": [
+    {
+      "name": "lockstride-kickoff",
+      "version": "1.0.0",
+      "description": "AI-guided workflow for startup ideation and development - from concept brainstorming to product handoff",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lockstride/kickoff-plugin.git"
+      },
+      "keywords": [
+        "startup",
+        "entrepreneurship",
+        "ideation",
+        "business-planning",
+        "product-development",
+        "market-analysis",
+        "brainstorming"
+      ],
+      "category": "business",
+      "tags": [
+        "startup",
+        "business",
+        "planning",
+        "ai-workflow",
+        "document-generation"
+      ]
+    }
+  ]
+}
