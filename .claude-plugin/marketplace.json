@@ -13,7 +13,6 @@
   "plugins": [
     {
       "name": "lockstride-kickoff",
-      "version": "1.0.0",
       "description": "AI-guided workflow for startup ideation and development - from concept brainstorming to product handoff",
       "source": {
         "source": "url",
