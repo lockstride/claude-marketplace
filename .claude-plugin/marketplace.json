@@ -35,6 +35,31 @@
         "ai-workflow",
         "document-generation"
       ]
+    },
+    {
+      "name": "palette-explorer",
+      "description": "Interactive OKLCH color palette exploration and selection for brand design systems",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lockstride/palette-explorer-plugin.git"
+      },
+      "keywords": [
+        "color",
+        "palette",
+        "oklch",
+        "design-system",
+        "brand",
+        "color-theory",
+        "css"
+      ],
+      "category": "design",
+      "tags": [
+        "design",
+        "color",
+        "palette",
+        "brand",
+        "css-variables"
+      ]
     }
   ]
 }

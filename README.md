@@ -10,6 +10,12 @@ AI-guided workflow for startup ideation and development - from concept brainstor
 
 **Documentation:** [lockstride/kickoff](https://github.com/lockstride/kickoff)
 
+### Palette Explorer
+
+Interactive OKLCH color palette exploration and selection for brand design systems. Guides from brand discovery through palette generation, iteration, and selection using a visual Palette Explorer tool.
+
+**Documentation:** [lockstride/palette-explorer-plugin](https://github.com/lockstride/palette-explorer-plugin)
+
 ## Installation
 
 ### Add the Marketplace
@@ -22,6 +28,12 @@ AI-guided workflow for startup ideation and development - from concept brainstor
 
 ```
 /plugin install lockstride-kickoff@lockstride-marketplace
+```
+
+### Install Palette Explorer
+
+```
+/plugin install palette-explorer@lockstride-marketplace
 ```
 
 ## Support
