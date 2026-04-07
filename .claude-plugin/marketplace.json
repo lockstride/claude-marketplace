@@ -7,7 +7,7 @@
     "url": "https://lockstride.ai"
   },
   "metadata": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Official Claude Code plugin marketplace by Lockstride - tools for entrepreneurs and startup development"
   },
   "plugins": [
@@ -59,6 +59,36 @@
         "palette",
         "brand",
         "css-variables"
+      ]
+    },
+    {
+      "name": "ralph-wiggum-plugin",
+      "description": "CLI-agnostic Ralph autonomous development loop — drives either claude or cursor-agent from a terminal with token tracking, context rotation, gutter detection, retry/backoff, and Spec Kit support",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lockstride/ralph-wiggum-plugin.git"
+      },
+      "keywords": [
+        "ralph",
+        "autonomous",
+        "agent",
+        "loop",
+        "spec-kit",
+        "cursor-agent",
+        "headless",
+        "afk",
+        "token-tracking",
+        "context-rotation"
+      ],
+      "category": "development",
+      "tags": [
+        "autonomous",
+        "agent-loop",
+        "ralph",
+        "spec-kit",
+        "cli-agnostic",
+        "claude-code",
+        "cursor"
       ]
     }
   ]
