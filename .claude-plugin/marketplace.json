@@ -90,6 +90,30 @@
         "claude-code",
         "cursor"
       ]
+    },
+    {
+      "name": "dmatrix-decision",
+      "description": "dMatrix decision-capture Skill — structured decision matrices from natural conversation",
+      "version": "ca0089bd963c94cf",
+      "source": {
+        "source": "git-subdir",
+        "repo": "lockstride/dmatrix-extensions",
+        "path": "claude/plugins/dmatrix-decision/"
+      },
+      "keywords": [
+        "decision-making",
+        "matrix",
+        "mcp",
+        "decision-capture",
+        "structured-decisions"
+      ],
+      "category": "productivity",
+      "tags": [
+        "decision-making",
+        "matrix",
+        "mcp",
+        "productivity"
+      ]
     }
   ]
 }
