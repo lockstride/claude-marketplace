@@ -92,9 +92,8 @@
       ]
     },
     {
-      "name": "dmatrix-decision",
+      "name": "dmatrix",
       "description": "dMatrix decision-capture Skill — structured decision matrices from natural conversation",
-      "version": "0.1.0",
       "source": {
         "source": "url",
         "url": "https://github.com/lockstride/dmatrix-extensions.git"
