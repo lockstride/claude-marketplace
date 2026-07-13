@@ -7,8 +7,8 @@
     "url": "https://lockstride.ai"
   },
   "metadata": {
-    "version": "1.1.0",
-    "description": "Official Claude Code plugin marketplace by Lockstride - tools for entrepreneurs and startup development"
+    "version": "1.2.0",
+    "description": "Official Claude Code plugin marketplace by Lockstride - tools for entrepreneurs and startup development. dMatrix Decision Capture moved to its own marketplace: lockstride/dmatrix-extensions."
   },
   "plugins": [
     {
@@ -89,28 +89,6 @@
         "cli-agnostic",
         "claude-code",
         "cursor"
-      ]
-    },
-    {
-      "name": "dmatrix",
-      "description": "dMatrix decision-capture Skill — structured decision matrices from natural conversation",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/lockstride/dmatrix-extensions.git"
-      },
-      "keywords": [
-        "decision-making",
-        "matrix",
-        "mcp",
-        "decision-capture",
-        "structured-decisions"
-      ],
-      "category": "productivity",
-      "tags": [
-        "decision-making",
-        "matrix",
-        "mcp",
-        "productivity"
       ]
     }
   ]
